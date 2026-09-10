@@ -20,15 +20,15 @@
 
 ### 📂 Featured Projects
 
-🎵 **[MoodyMusic](https://github.com)** - Full-stack audio player using MediaPipe Face Mesh to map real-time expressions to a dynamic song engine (<200ms latency).
-🤖 **[KAION](https://github.com)** - Agentic AI Assistant built with LangChain and Gemini API for autonomous email dispatch via natural language.
-🍕 **[LIZZA](https://github.com)** - E-Commerce platform featuring real-time tracking (Socket.io) and secured RBAC/Razorpay payments.
+🎵 **[MoodyMusic](https://github.com/jai345coder/COHORT2.0_BACKEND/tree/main/day27/moodyMusichttps://github.com/jai345coder/COHORT2.0_BACKEND/tree/main/KION)** - Full-stack audio player using MediaPipe Face Mesh to map real-time expressions to a dynamic song engine (<200ms latency).
+🤖 **[KAION](https://github.com/jai345coder/COHORT2.0_BACKEND/tree/main/KION)** - Agentic AI Assistant built with LangChain and Gemini API for autonomous email dispatch via natural language.
+🍕 **[LIZZA](https://github.com/jai345coder/LIZZA)** - E-Commerce platform featuring real-time tracking (Socket.io) and secured RBAC/Razorpay payments.
 
 ---
 
 ### 📬 Connect With Me
 
 - 📧 **Email:** prashant.92134@gmail.com
-- 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-- 📝 **Resume:** [Link to your Google Drive Resume]
+- 💼 **LinkedIn:**(www.linkedin.com/in/prashant-tiwari-74284b27b)
+- 📝 **Resume:** [(https://drive.google.com/file/d/1Jb7fmfMAgCcfADBmtjUO6bnssa_K4NUu/view?usp=drive_link)]
 
